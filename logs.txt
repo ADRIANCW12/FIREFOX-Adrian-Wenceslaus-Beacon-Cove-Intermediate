@@ -1,0 +1,10 @@
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3008, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-91.0.1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
